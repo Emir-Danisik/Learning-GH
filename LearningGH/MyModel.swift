@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyModel {
-    var myname: String?
+    var myname = "EmirTheBest"
 }
